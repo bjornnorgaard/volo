@@ -34,3 +34,6 @@ go.work
 
 # Scraper cache
 cache
+
+# Output dir
+output
